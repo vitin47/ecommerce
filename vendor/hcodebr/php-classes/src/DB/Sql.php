@@ -4,10 +4,10 @@ namespace Hcode\DB;
 
 class Sql {
 
-	const HOSTNAME = "localhost";
-	const USERNAME = "root";
-	const PASSWORD = "";
-	const DBNAME = "db_ecommerce";
+	const HOSTNAME = "162.241.2.187";
+	const USERNAME = "nilton92_user";
+	const PASSWORD = "_m?J--%pzoN}";
+	const DBNAME = "nilton92_bd";
 
 	private $conn;
 
